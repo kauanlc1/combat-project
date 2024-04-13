@@ -23,7 +23,6 @@ public class Fighters {
     }
 
     public void ganharLuta() {
-        this.setVitorias();
     }
 
     public String getNome() {
