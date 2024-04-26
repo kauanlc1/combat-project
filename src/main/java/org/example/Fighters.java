@@ -20,6 +20,8 @@ public class Fighters {
         this.setVitorias(vi);
         this.setDerrotas(de);
         this.setEmpates(em);
+
+        System.out.println("Teste");
     }
 
 
